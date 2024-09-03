@@ -15,76 +15,76 @@ Understanding the audience's expertise level help in striking a balance act to f
     Respect your audience.
     Conduct Regular Audience Surveys. ‍
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
-By asking about their background, their expectations, their familiarity with the concepts, and their learning goals to enable usage of appropriate language for the audience.
+    By asking about their background, their expectations, their familiarity with the concepts, and their learning goals to enable usage of appropriate language for the   audience.
 
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
- Keep it Short and Simple.
- Create Proper Headings.
- Write Descriptive Links.
- Use Built-in Formatting.
- Include clear steps.
- Anticipate problems(Offer solutions to common issues).
- Check for Color Contrast
- Provide text alternatives
- Caption your videos
+   Keep it Short and Simple.
+   Create Proper Headings.
+   Write Descriptive Links.
+   Use Built-in Formatting.
+   Include clear steps.
+   Anticipate problems(Offer solutions to common issues).
+   Check for Color Contrast
+   Provide text alternatives
+   Caption your videos
 
  
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
-It communicates your message across in the shortest time possible,more people are able to understand your message,there is less chance that your document will be misunderstood and finally you spend less time explaining it to people.
+   It communicates your message across in the shortest time possible,more people are able to understand your message,there is less chance that your document will be  misunderstood and finally you spend less time explaining it to people.
 
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
-Simplifying terms eliminates confusion and ensure that your message is conveyed accurately for example:
-"chaotic" instead of "labyrinthine"
-"digestion" instead of "metabolism"
+   Simplifying terms eliminates confusion and ensure that your message is conveyed accurately for example:
+   "chaotic" instead of "labyrinthine"
+   "digestion" instead of "metabolism"
 
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
-Visuals for example flow chart diagram,charts and images provide a visual representation of concepts or processes, making concepts easier to understand and remember by illustrating the steps of a process ,comparing different ideas or concepts and help simplify complex ideas by presenting them in a structured format.
+   Visuals for example flow chart diagram,charts and images provide a visual representation of concepts or processes, making concepts easier to understand and remember by   illustrating the steps of a process ,comparing different ideas or concepts and help simplify complex ideas by presenting them in a structured format.
 
 
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
-tech experts:
-Graphs : Line Graph
-Charts : Flow Chart and Gantt Chart
-Illustrations :Diagram and drawings showing specific dimensions
+   tech experts:
+   Graphs : Line Graph
+   Charts : Flow Chart and Gantt Chart
+   Illustrations :Diagram and drawings showing specific dimensions
 
-regular folks:
-Graphs :Bar Graph
-Charts :Pie Chart
-Illustrations: Photo and Film clips
+   regular folks:
+   Graphs :Bar Graph
+   Charts :Pie Chart
+   Illustrations: Photo and Film clips
 
 
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
-Headings and subheadings provide provide a clearly visible organization and structure that allows readers to read selectively and preview information.It provides logical development of ideas in the document.
+    Headings and subheadings provide provide a clearly visible organization and structure that allows readers to read selectively and preview information.It provides logical     development of ideas in the document.
 
 
 ## 10. What are some best practices for creating effective headings and subheadings?
-  Keep headings consistent
-  Keep subheadings descriptive
-  Start headings with keywords
-  Formatting(headings and subheadings should be organized in a hierarchy way)
+   Keep headings consistent
+   Keep subheadings descriptive
+   Start headings with keywords
+   Formatting(headings and subheadings should be organized in a hierarchy way)
 
   
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
-  A clear title
-  An overview of the project
-  Installation instructions 
-  Visuals
-  Potentially a 'Getting Started' or 'Usage' section
-  Available support
-  Rootmap
+   A clear title
+   An overview of the project
+   Installation instructions 
+   Visuals
+   Potentially a 'Getting Started' or 'Usage' section
+   Available support
+   Rootmap
 
   
 ## 12. How can you succinctly convey the purpose and key features of a product?
-I will focus on showcasing how the product can improve the target consumer/audience lives, solve their problems or fulfil their aspirations.To convey/achieve this i will use the below steps:
-  Focus on target audience ideal needs
-  Present the benefits first, then the features
-  Make the descriptions easy to scan
-  Use specific simple language
-  Show the vision of life with the product
-  Leverage sensory language
-  Provide social proof
-  Get the audience feedback
-  Track your success
+   I will focus on showcasing how the product can improve the target consumer/audience lives, solve their problems or fulfil their aspirations.To convey/achieve this i will     use the below steps:
+   Focus on target audience ideal needs
+   Present the benefits first, then the features
+   Make the descriptions easy to scan
+   Use specific simple language
+   Show the vision of life with the product
+   Leverage sensory language
+   Provide social proof
+   Get the audience feedback
+   Track your success
